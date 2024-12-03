@@ -7,5 +7,6 @@
    ./fastfetch.nix
    ./yazi.nix
    ./zsh.nix
+   ./kitty.nix
   ];
 }

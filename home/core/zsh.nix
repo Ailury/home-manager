@@ -10,11 +10,12 @@
     shellAliases = {
         ls = "ls --color=always";
         ll = "ls -l";
-        updatehm = "home-manager switch --flake /home/m/.config/home-manager/";
+        updatehm = "home-manager switch --flake /home/m/git/home-manager/";
         cd = "z";
         v = "nvim";
         vim = "vim";
         nvim = "nvim";
+        gs = "git status";
         gc = "git commit -m";
         gca = "git commit -a -m";
         gp = "git push origin HEAD";
